@@ -1,0 +1,5 @@
+name: ArmorChangeEvent
+main: me.gustav.armorchange.Main
+author: 6u5t4v (Gustav)
+version: 1.0.0
+api-version: "1.13"

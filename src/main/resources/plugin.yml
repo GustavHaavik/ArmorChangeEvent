@@ -1,0 +1,5 @@
+name: ${project.name}
+main: me.gustav.armorchange.Main
+author: 6u5t4v (Gustav)
+version: ${project.version}
+api-version: "1.13"
